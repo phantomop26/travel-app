@@ -3,8 +3,6 @@
 
 A native iOS travel app written in Swift that helps users discover destinations, plan trips, view maps, and access travel-related information. This README provides an overview, setup instructions, architectural notes, and guidance for contributors.
 
-> NOTE: This README is a general, production-ready template. Update sections marked with TODO (API keys, screenshots, known issues, etc.) to reflect the actual project details.
-
 ---
 
 ## Table of contents
